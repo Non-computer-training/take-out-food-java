@@ -13,6 +13,8 @@ public class App {
     }
 
     public String bestCharge(List<String> inputs) {
+        //TODO: write code here
+
         return null;
     }
 }
